@@ -9,9 +9,12 @@ h1 {
 }
 
 .select{
-    display:inline;
+    display:block;
     width: 200;
     text-align: center;
+    border-color: rgb(1, 85, 1);
+    padding: 5px;
+    margin-top:3em;
 
 }
 
@@ -19,5 +22,7 @@ h1 {
     margin-left: 53px ;
     padding: 20px;
     display:inline;
+    background:rgba(153, 165, 164, 0.316);
+    border: 4px solid orange;
 }
 
